@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bf441748-0ec5-4c8a-b3e5-11301ee3f0bd" alt="VERT's logo" height="100">
+  <img src="https://raw.githubusercontent.com/VERT-sh/.github/be5232d0ffef134e22f130410d31e01bc3076852/brand/VERT_Logo_Boxed.svg" alt="VERT's logo" height="100">
 </p>
 <h1 align="center"><a href="https://github.com/VERT-sh/VERT#readme">VERT</a> GitHub Organization</h1>
 
